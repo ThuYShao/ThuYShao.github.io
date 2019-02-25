@@ -13,7 +13,7 @@ name                     : &name "Yunqiu Shao"
 description              : &description "PhD student at Tsinghua University"
 url                      : https://ThuYShao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ThuYShao/ThuYShao.github.io"
+repository               : "ThuYShao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ author:
   name             : "Fan Zhang"
   avatar           : "shao.jpeg"
   bio              : "PhD student At Tsinghua University"
-  location         : "FIT Building, Tsinghua University, Beijing, China"
+  location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ElHk_6IAAAAJ&hl=en"
   email            : "shaoyunqiu14@gmail.com"
