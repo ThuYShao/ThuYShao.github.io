@@ -35,7 +35,7 @@ Miscellaneous
 ======
 * My name in Chinese is 邵韵秋.
 * I come from Nantong, Jiangsu, China. 
-* My hobbies are comic books and travelling. 
+* My hobbies are travelling and reading comic books.  
 
 
 
