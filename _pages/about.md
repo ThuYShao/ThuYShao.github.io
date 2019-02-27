@@ -18,7 +18,7 @@ Education
 Experience
 ======
 * *06.2017-08.2017* Visiting student. [Information Sciences Institute (**ISI**)](https://www.isi.edu/), University of Southern California (**USC**), Los Angeles, California, USA. 
-* *06.2016-07.2017* Visiting student. [National Tsing Hua University](https://www.nthu.edu.tw/), Taiwan, China. 
+* *06.2016-07.2016* Visiting student. [National Tsing Hua University](https://www.nthu.edu.tw/), Taiwan, China. 
 
 Publications
 ======
