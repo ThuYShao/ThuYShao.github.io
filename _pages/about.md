@@ -24,7 +24,7 @@ Experience
 
 Publications
 ======
-* ***Yunqiu Shao***. Towards Legal Case Retrieval. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. Doctoral Consortium. (**SIGIR 2020**) (*To appear.*)
+* ***Yunqiu Shao***. Towards Legal Case Retrieval. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. Doctoral Consortium. (**SIGIR 2020**) [Preprint version]({{site.url}}/files/sigirdc_shao_onepage_0603.pdf)
 * ***Yunqiu Shao***, Jiaxin Mao, Yiqun Liu, Weizhi Ma, Ken Satoh, Min Zhang, and Shaoping Ma. BERT-PLI: Modeling Paragraph-Level Interactions for Legal Case Retrieval. The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence. (**IJCAI-PRICAI 2020**) (*To appear.*)
 * ***Yunqiu Shao***, Jiaxin Mao, Yiqun Liu, Min Zhang and Shaoping Ma. Towards Context-Aware Evaluation for Image Search. The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. Short paper (**SIGIR 2019**). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2019Shao.pdf)
 * ***Yunqiu Shao***, Yiqun Liu, Fan Zhang, Min Zhang and Shaoping Ma. On Annotation Methodologies for Image Search Evaluation. Accepted by ACM Transactions on Information Systems (**TOIS**). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/TOIS2019Shao.pdf)
@@ -32,11 +32,11 @@ Publications
 * Hongyu Lu, Min Zhang, Weizhi Ma, ***Yunqiu Shao***, Yiqun Liu and Shaoping Ma. Quality Effects on User Preferences and Behaviors in Mobile News Streaming	User Modeling. The Web Conference 2019 (**WWW'19**). [Preprint Version](http://www.thuir.cn/group/~mzhang/publications/WWW2019-lhy.pdf)
 * Fan Zhang, Ke Zhou, ***Yunqiu Shao***, Cheng Luo, Min Zhang and Shaoping Ma. How Well do Offline and Online Evaluation Metrics Measure User Satisfaction in Web Image Search? The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2018**) [Preprint Version](http://www.thuir.cn/group/~mzhang/publications/SIGIR18-Zhang.pdf)
 * ***Yunqiu Shao***, Yiqun Liu, Jiaxin Mao, Cheng Luo, Huanbo Luan, Min Zhang and Shaoping Ma. Detect Clickbait: From the Aspect of User Behavior. International Workshop on Computational Surprise in Information Retrieval (**CompS'18@SIGIR18**). [Preprint Version](https://drive.google.com/file/d/1o4cDhRAFBqgxqRGvQCGQ9m0gus6PCktw/view)
-* Fred Morstatter, ***Yunqui Shao***, Aram Galstyan and Shanika Karunasekera. [From *Alt-Right* to *Alt-Rechts*: Twitter Analysis of the 2017 German Federal Election.](https://dl.acm.org/citation.cfm?id=3188733) The Web Conference 2018 (**WWW'18**).
+* Fred Morstatter, ***Yunqui Shao***, Aram Galstyan and Shanika Karunasekera. From *Alt-Right* to *Alt-Rechts*: Twitter Analysis of the 2017 German Federal Election. The Web Conference 2018 (**WWW'18**). [Paper](https://dl.acm.org/citation.cfm?id=3188733)
 
 Projects
 ======
-* We won the **1st** place in TASK 2 (Relevant Statue Retrieval Task) of AILA 2019 (Artificial Intelligence for Legal Assisstance). Working Notes. (*To appear.*)
+* We won the **1st** place in TASK 2 (Relevant Statue Retrieval Task) of AILA 2019 (Artificial Intelligence for Legal Assisstance). [Working Notes]({{site.url}}/files/THUIR_Legal_Notes_for_AILA_2019_new.pdf)
 
 Honors and Awards
 ======
