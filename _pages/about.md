@@ -24,6 +24,8 @@ Experience
 
 Publications
 ======
+* ***Yunqiu Shao***. Towards Legal Case Retrieval. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. Doctoral Consortium. (**SIGIR 2020**) (*To appear.*)
+* ***Yunqiu Shao***, Jiaxin Mao, Yiqun Liu, Weizhi Ma, Ken Satoh, Min Zhang, and Shaoping Ma. BERT-PLI: Modeling Paragraph-Level Interactions for Legal Case Retrieval. The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence. (**IJCAI-PRICAI 2020**) (*To appear.*)
 * ***Yunqiu Shao***, Jiaxin Mao, Yiqun Liu, Min Zhang and Shaoping Ma. Towards Context-Aware Evaluation for Image Search. The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. Short paper (**SIGIR 2019**). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2019Shao.pdf)
 * ***Yunqiu Shao***, Yiqun Liu, Fan Zhang, Min Zhang and Shaoping Ma. On Annotation Methodologies for Image Search Evaluation. Accepted by ACM Transactions on Information Systems (**TOIS**). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/TOIS2019Shao.pdf)
 * Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, ***Yunqiu Shao***, Zixin Ye. Grid-based Evaluation Metrics for Web Image Search. The Web Conference 2019 (**WWW'19**). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/WWW19Xie.pdf)
