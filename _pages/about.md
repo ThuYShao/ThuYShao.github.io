@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second year Ph.D. student in THUIR, [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about domain-specific applications, user behavior analysis and search evaluation. 
+I am now a 3rd year Ph.D. student in THUIR, [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about domain-specific applications, user behavior analysis and search evaluation. 
 
 Education
 ======
@@ -26,6 +26,7 @@ Publications
 ======
 * ***Yunqiu Shao***. Towards Legal Case Retrieval. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. Doctoral Consortium. (**SIGIR 2020**) [Preprint version]({{site.url}}/files/sigirdc_shao_onepage_0603.pdf)
 * ***Yunqiu Shao***, Jiaxin Mao, Yiqun Liu, Weizhi Ma, Ken Satoh, Min Zhang, and Shaoping Ma. BERT-PLI: Modeling Paragraph-Level Interactions for Legal Case Retrieval. The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence. (**IJCAI-PRICAI 2020**) [Details](https://www.ijcai.org/Proceedings/2020/484)
+* ***Yunqiu Shao*** and Ziyi Ye. THUIR@AILA 2019: Information Retrieval Approaches for Identifying Relevant Precedents and Statutes. (**FIRE 2019**). [Paper](http://ceur-ws.org/Vol-2517/T1-8.pdf)
 * ***Yunqiu Shao***, Jiaxin Mao, Yiqun Liu, Min Zhang and Shaoping Ma. Towards Context-Aware Evaluation for Image Search. The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. Short paper (**SIGIR 2019**). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2019Shao.pdf)
 * ***Yunqiu Shao***, Yiqun Liu, Fan Zhang, Min Zhang and Shaoping Ma. On Annotation Methodologies for Image Search Evaluation. Accepted by ACM Transactions on Information Systems (**TOIS**). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/TOIS2019Shao.pdf)
 * Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, ***Yunqiu Shao***, Zixin Ye. Grid-based Evaluation Metrics for Web Image Search. The Web Conference 2019 (**WWW'19**). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/WWW19Xie.pdf)
@@ -36,7 +37,7 @@ Publications
 
 Projects
 ======
-* We won the **1st** place in TASK 2 (Relevant Statue Retrieval Task) of AILA 2019 (Artificial Intelligence for Legal Assisstance). [Working Notes]({{site.url}}/files/THUIR_Legal_Notes_for_AILA_2019_new.pdf)
+* We won the **1st** place in TASK 2 (Relevant Statue Retrieval Task) of AILA 2019 (Artificial Intelligence for Legal Assisstance). [Working Notes](http://ceur-ws.org/Vol-2517/T1-8.pdf)
 
 Honors and Awards
 ======
