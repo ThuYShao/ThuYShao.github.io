@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am now a 3rd year Ph.D. student in THUIR, [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about domain-specific applications, user behavior analysis and search evaluation. 
+I am now a 3rd year Ph.D. candidate in THUIR, [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about domain-specific applications, user behavior analysis and search evaluation. 
 
 Education
 ======
-* *08.2018-present* Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
+* *08.2018-present* Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.
 * *08.2014-07.2018* B.S., Department of Computer Science and Technology, Tsinghua University, China. 
 * *09.2015-01.2017* *minor*, Economics, Tsinghua University, China. 
 
@@ -24,6 +24,7 @@ Experience
 
 Publications
 ======
+* ***Yunqiu Shao***, Bulou Liu, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. THUIR@COLIEE-2020: Leveraging Semantic Understanding and Exact Matching for Legal Case Retrieval and Entailment. (**JURISIN 2020**) [Paper](https://arxiv.org/abs/2012.13102)
 * ***Yunqiu Shao***. Towards Legal Case Retrieval. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. Doctoral Consortium. (**SIGIR 2020**) [Preprint version]({{site.url}}/files/sigirdc_shao_onepage_0603.pdf)
 * ***Yunqiu Shao***, Jiaxin Mao, Yiqun Liu, Weizhi Ma, Ken Satoh, Min Zhang, and Shaoping Ma. BERT-PLI: Modeling Paragraph-Level Interactions for Legal Case Retrieval. The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence. (**IJCAI-PRICAI 2020**) [Details](https://www.ijcai.org/Proceedings/2020/484)
 * ***Yunqiu Shao*** and Ziyi Ye. THUIR@AILA 2019: Information Retrieval Approaches for Identifying Relevant Precedents and Statutes. (**FIRE 2019**). [Paper](http://ceur-ws.org/Vol-2517/T1-8.pdf)
@@ -38,6 +39,7 @@ Publications
 Projects
 ======
 * We won the **1st** place in TASK 2 (Relevant Statue Retrieval Task) of AILA 2019 (Artificial Intelligence for Legal Assisstance). [Working Notes](http://ceur-ws.org/Vol-2517/T1-8.pdf)
+* Our team won the **2nd** place in Task 1 (Legal Case Retrieval Task) of COLIEE 2020 (Competition on Legal Information Extraction/Entailment). [Working Notes](https://arxiv.org/abs/2012.13102)
 
 Honors and Awards
 ======
